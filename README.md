@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Master branch only contains the template files.
+
+The progress of the project is broken down into branches. Switch branches to review progress made during the development of th project.
+
 ## Available Scripts
 
 In the project directory, you can run:
